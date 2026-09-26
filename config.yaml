@@ -35,13 +35,13 @@ cameras:
 
   - id: camera_3
     name: Building Camera
-    source: C:\Users\Lenovo\Videos\KAVACH testing Data\RDT_20260713_101445.mp4
+    source: videos/camera3.mp4
     stream_path: camera3
     enabled: true
 
   - id: camera_4
     name: Hall Camera
-    source: C:\Users\Lenovo\Documents\DATASET KAVACH\rapidsave.com_fight_between_professor_and_college_principal-37ku9htrplc81.mp4
+    source: videos/camera4.mp4
     stream_path: camera4
     enabled: true
 
